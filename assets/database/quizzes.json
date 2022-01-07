@@ -5,20 +5,20 @@
         "questionAnswered": 1,
         "level": "facil",
         "questions": [
-            { "title": "Amanda é linda?", 
+            { "title": "2 x 2 = ?", 
                 "answers": [
-                    {"title": "Sim, muito", "isRight": true},
-                    {"title": "Maisomenos"},
-                    {"title": "Feia"},
-                    {"title": "Horrível"}
+                    {"title": "4", "isRight": true},
+                    {"title": "3"},
+                    {"title": "8"},
+                    {"title": "6"}
             ]
             },
-            { "title": "João Vitor é namorado da Amana?", 
+            { "title": "2 x 0 = ?", 
                 "answers": [
-                    {"title": "Simmm", "isRight": true},
-                    {"title": "Será?"},
-                    {"title": "Descubra.."},
-                    {"title": "Nãor"}
+                    {"title": "0", "isRight": true},
+                    {"title": "1"},
+                    {"title": "2"},
+                    {"title": "Indefinido"}
             ]
             }
         ]
